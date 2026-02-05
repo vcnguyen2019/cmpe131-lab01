@@ -1,2 +1,5 @@
-# Branches allow separation of different areas of work. This includes the main development areas, features, bug fixes, etc, while not impacting other features/bug fixes/areas/databases, etc. This allows multiple software developers to work on a single project at once because one engineer's work will not interfere with another's as long as proper branching and merging and safety precautions are taken to ensure no code is overwritten or accidentally edited and modified without the intention to, or working on wrong areas of code, etc.
+# Branches allow separation of different areas of work. This includes the main development areas, features, bug fixes, etc, while not impacting other features/bug fixes/areas/databases, etc. 
+This allows multiple software developers to work on a single project at once because one engineer's work will not interfere with another's as long as proper branching and merging and safety precautions are taken. 
+The things that all of these steps and methods in combination include ensuring no code is overwritten or accidentally edited and modified without the intention to.
+It also makes it difficult to work on wrong areas of code, as it takes intentional commands and directory/feature/branch movement and creation to edit or work on certain areas of any given project.
 Reflection description
